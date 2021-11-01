@@ -2,29 +2,20 @@
 
 You can use the [editor on GitHub](https://github.com/hellohotbox/hotsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
+title: "My Website"
+---
+    
+Hello, Website! Welcome to the world.
 
-### Markdown
+![](C:/Users/christine.iyer/OneDrive - University of Maine System/Bright Ideas/HotBox/hot/hot/images/IMG_6062 (2).jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![](C:/Users/christine.iyer/OneDrive - University of Maine System/Bright Ideas/HotBox/hot/hot/images/IMG_6059.JPG)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+git config user.name "hellohottbox"
+git config user.email "hellohotbox420@gmail.com"
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
